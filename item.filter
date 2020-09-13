@@ -83,20 +83,20 @@ ItemDisplay[(gfv OR gfw OR gfg OR gfr OR gfb OR gfy OR skf) DIFFICULTY>0]:
 ItemDisplay[(gsv OR gsw OR gsg OR gsr OR gsb OR gsy OR sku) DIFFICULTY>1]:
 ItemDisplay[(gcv OR gcw OR gcg OR gcr OR gcb OR gcy OR skc) CLVL<19]: %NAME%
 ItemDisplay[(gcv OR gcw OR gcg OR gcr OR gcb OR gcy OR skc)]: %GRAY%chip
-ItemDisplay[gzv]: %WHITE%Amethyst %ORANGE%[%PURPLE%O%ORANGE%]
-ItemDisplay[glw]: %WHITE%Diamond %ORANGE%[%WHITE%O%ORANGE%]
-ItemDisplay[glg]: %WHITE%Emerald %ORANGE%[%GREEN%O%ORANGE%]
-ItemDisplay[glr]: %WHITE%Ruby %ORANGE%[%RED%O%ORANGE%]
-ItemDisplay[glb]: %WHITE%Sapphire %ORANGE%[%BLUE%O%ORANGE%]
-ItemDisplay[gly]: %WHITE%Topaz %ORANGE%[%YELLOW%O%ORANGE%]
-ItemDisplay[skl]: %WHITE%Skull %ORANGE%[%GRAY%O%ORANGE%]
-ItemDisplay[gpv]: %ORANGE%P %WHITE%Amethyst %ORANGE%[%PURPLE%O%ORANGE%]
-ItemDisplay[gpw]: %ORANGE%P %WHITE%Diamond %ORANGE%[%WHITE%O%ORANGE%]
-ItemDisplay[gpg]: %ORANGE%P %WHITE%Emerald %ORANGE%[%GREEN%O%ORANGE%]
-ItemDisplay[gpr]: %ORANGE%P %WHITE%Ruby %ORANGE%[%RED%O%ORANGE%]
-ItemDisplay[gpb]: %ORANGE%P %WHITE%Sapphire %ORANGE%[%BLUE%O%ORANGE%]
-ItemDisplay[gpy]: %ORANGE%P %WHITE%Topaz %ORANGE%[%YELLOW%O%ORANGE%]
-ItemDisplay[skz]: %ORANGE%P %WHITE%Skull %ORANGE%[%GRAY%O%ORANGE%]
+ItemDisplay[gzv]: %WHITE%Amethyst [%PURPLE%O]
+ItemDisplay[glw]: %WHITE%Diamond [%WHITE%O]
+ItemDisplay[glg]: %WHITE%Emerald [%GREEN%O]
+ItemDisplay[glr]: %WHITE%Ruby [%RED%O]
+ItemDisplay[glb]: %WHITE%Sapphire [%BLUE%O]
+ItemDisplay[gly]: %WHITE%Topaz [%YELLOW%O]
+ItemDisplay[skl]: %WHITE%Skull [%GRAY%O]
+ItemDisplay[gpv]: P %WHITE%Amethyst [%PURPLE%O]
+ItemDisplay[gpw]: P %WHITE%Diamond [%WHITE%O]
+ItemDisplay[gpg]: P %WHITE%Emerald [%GREEN%O]
+ItemDisplay[gpr]: P %WHITE%Ruby [%RED%O]
+ItemDisplay[gpb]: P %WHITE%Sapphire [%BLUE%O]
+ItemDisplay[gpy]: P %WHITE%Topaz [%YELLOW%O]
+ItemDisplay[skz]: P %WHITE%Skull [%GRAY%O]
 
 //Arrows and Bolts
 ItemDisplay[aqv CLVL>12]:
